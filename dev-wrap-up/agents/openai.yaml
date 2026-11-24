@@ -1,0 +1,3 @@
+interface:
+  display_name: "开发收尾 / Dev Wrap-Up"
+  short_description: "开发完成后复盘、同步文档并生成规范提交"
